@@ -1,0 +1,4 @@
+SpringLoginSystemXmlBased
+=========================
+
+fully xml based 
